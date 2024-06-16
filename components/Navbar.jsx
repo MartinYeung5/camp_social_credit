@@ -24,7 +24,7 @@ const MenuItems = ({ isMobile, active, setActive, setIsOpen }) => {
 
     return (
         <ul className={`list-none flexCenter flex-row ${isMobile && 'flex-col h-full'}`}>
-            {['Explore NFTs', 'Listed NFTs', 'My NFTs'].map((item, i) => (
+            {['Explore Memberships', 'Listed Memberships', 'My Memberships'].map((item, i) => (
                 <li
                     key={i}
                     onClick={() => {

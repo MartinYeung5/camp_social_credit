@@ -22,6 +22,7 @@ The social credit will represent the personal social information. if the owner h
 * camp network connection since i don't get any information/tutorial and i still have issue on it
 
 # Technologies I used
+Solidity Nextjs Hardhat
 
 # Links
 https://github.com/MartinYeung5/camp_social_credit
