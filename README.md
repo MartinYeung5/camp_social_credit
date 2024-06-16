@@ -9,4 +9,4 @@ The social credit will represent the personal social information. if the owner h
 
 # contract address
 * 0xc35f564834298b0491Df00f42f0FF402c9365dC2
-* [camp network](https://explorer.camp-network-testnet.gelato.digital/tx/0xe8d66cd02aee62da1516f9cab5450835c857356a4a8070f59a5c66d7b9b2980c)
+* https://explorer.camp-network-testnet.gelato.digital/tx/0xe8d66cd02aee62da1516f9cab5450835c857356a4a8070f59a5c66d7b9b2980c
