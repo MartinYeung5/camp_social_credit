@@ -8,5 +8,11 @@ The social credit will represent the personal social information. if the owner h
 * NFT transaction with specific membership NFT will changed the social credit (maybe increase or decrease)
 
 # contract address
+* network - camp network
 * 0xc35f564834298b0491Df00f42f0FF402c9365dC2
 * https://explorer.camp-network-testnet.gelato.digital/tx/0xe8d66cd02aee62da1516f9cab5450835c857356a4a8070f59a5c66d7b9b2980c
+
+# Tagline
+* create social credit by membership NFT
+
+# The problem it solves
