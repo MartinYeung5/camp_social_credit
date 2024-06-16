@@ -16,3 +16,4 @@ The social credit will represent the personal social information. if the owner h
 * create social credit by membership NFT
 
 # The problem it solves
+* generate more fun on NFT and create social cerdit to show owner interaction on web3
